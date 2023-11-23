@@ -1,0 +1,17 @@
+
+#titulo {
+    text-align: center;
+}
+body{
+    background-color: #adbae6;
+}
+/* usa esse para colocar comentario no css*/
+h1{
+    color:blue;
+    text-align:right;
+    font-size:30px;
+}
+.texto{
+   color: brown;
+    text-align: left;
+}
